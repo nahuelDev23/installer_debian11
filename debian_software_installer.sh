@@ -50,6 +50,12 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
 ## typescript
-npm install -g typescripttyopnp
+npm install -g typescript
+
+##zsh
+apt install zsh
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+
 
 echo Finished Installing Programs!
