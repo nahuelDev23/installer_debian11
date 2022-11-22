@@ -15,7 +15,7 @@ sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode s
 
 ## INSTALL
 sudo apt-get update
-sudo apt-get install  google-chrome-stable code terminator git python3-pip ninja-build gettext libtool libtool-bin autoconf automake cmake g++ pkg-config unzip curl doxygen  python3-pip tree
+sudo apt-get install  google-chrome-stable code terminator git python3-pip ninja-build gettext libtool libtool-bin autoconf automake cmake g++ pkg-config unzip curl doxygen  python3-pip tree keepassxc
 
 ## NVM
 curl https://raw.githubusercontent.com/creationix/nvm/v0.33.4/install.sh | bash
